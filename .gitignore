@@ -1,0 +1,24 @@
+# Dataset files
+data/
+dataset/
+datasets/
+*.csv
+*.zip
+*.parquet
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Python environment
+.env
+.venv/
+venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
